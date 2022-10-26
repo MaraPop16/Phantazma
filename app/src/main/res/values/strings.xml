@@ -1,0 +1,8 @@
+<resources>
+<string name="app_name">Phantazma</string>
+<string name="welcome_message">Welcome back</string>
+<string name="j_doe_student_tue_nl">j.doe@student.tue.nl</string>
+<string name="email">Email</string>
+<string name="password">Password</string>
+    <string name="action_sign_in_short">Log in</string>
+</resources>
